@@ -1,0 +1,26 @@
+.titulo1{
+text-align: center;
+
+        }
+.titu {
+    text-align: center;
+}
+.resp1{
+    text-align: center;
+}
+.resp2{
+    margin-left: 170px;
+    display: inline-block;
+}
+
+.resp3{
+    text-align: center;
+}
+resp4{
+    margin-left: 170px;
+    display: inline-block ;
+}
+.div{
+    display: flex;
+    justify-content: space-between;
+}
