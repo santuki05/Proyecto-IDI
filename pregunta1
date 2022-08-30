@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PREGUNTA 1</title>
+    <link rel="stylesheet" href="TAE.css">
+</head>
+<body>
+    <H1 class="titu">Pregunta 1</H1>
+
+    <h2 class="titulo1">¿Esta es la pregunta uno?</h2>
+
+    <br>
+
+    <form>
+        <input type="radio" id="respuesta1" name="fav_language" value="resp1">
+        <label class="resp1" for="RESPUESTA1">Si, esta es la respuesta uno</label><br>
+        <input type="radio" id="respuesta2" name="fav_language" value="resp2">
+        <label for="RESPUESTA2">RESPUESTA Nº2</label><br>
+        <input type="radio" id="respuesta3" name="fav_language" value="resp3">
+        <label for="RESPUESTA3">respuesta 3</label><br>
+        <input type="radio" id="respuesta4" name="fav_language" value="resp4">
+        <label for="RESPUESTA4">Correcto, esta es la respuesta 4 </label> <br>
+      </form>
+    
+    
+
+</body>
+</html>
